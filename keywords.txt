@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map For protoVECTOR
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+	KEYWORD1
+	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+protoVECTOR	KEYWORD2
+vector_size	KEYWORD2	
+empty_float	KEYWORD2		
+front_float	KEYWORD2		
+back_float	KEYWORD2	
+get_float	KEYWORD2
+set_float	KEYWORD2
+clear_float	KEYWORD2
+push_float	KEYWORD2
+sort_float	KEYWORD2
+empty_vector_float	KEYWORD2
+read_vector_float	KEYWORD2
+empty_string	KEYWORD2
+front_string	KEYWORD2
+back_string	KEYWORD2
+get_string	KEYWORD2
+set_string	KEYWORD2
+clear_string	KEYWORD2
+sort_string	KEYWORD2
+push_string	KEYWORD2
+empty_vector_string	KEYWORD2
+read_vector_string	KEYWORD2
+#######################################
+# Instances (KEYWORD2)
+#######################################
+protoVECTOR 		KEYWORD2	
+#######################################
+# Constants (LITERAL1)
+#######################################
+
